@@ -72,6 +72,7 @@ for sce in to_plot:
     ax.set_ylim(0, 25)
     fig.tight_layout()
 
-    plt.savefig(f'./results/fig4_barplot_CDR_income_{sce}.png', dpi=600, bbox_inches='tight')
+    plt.savefig(f'./results/fig5_barplot_CDR_income_{sce}.png', dpi=600, bbox_inches='tight')
     plt.show()
+
 
