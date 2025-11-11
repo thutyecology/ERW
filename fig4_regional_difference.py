@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Plot cumulative CDR by income group for selected ERW scenarios
-(showing only years 2040, 2060, 2080, and 2100).
 """
 
 import numpy as np
@@ -75,3 +74,4 @@ for sce in to_plot:
 
     plt.savefig(f'./results/fig4_barplot_CDR_income_{sce}.png', dpi=600, bbox_inches='tight')
     plt.show()
+
