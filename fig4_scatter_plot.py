@@ -74,5 +74,6 @@ axs[0].legend(title='', frameon=False, loc='best', fontsize=9)
 
 plt.tight_layout()
 
-plt.savefig('./results/fig_scatter_plot_country_CDR_cropland.png', dpi=600, bbox_inches='tight')
+plt.savefig('./results/fig4_scatter_plot_country_CDR_cropland.png', dpi=600, bbox_inches='tight')
 plt.show()
+
