@@ -1,6 +1,6 @@
 # Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation
 
-This repository contains the key scripts and data used to reproduce the figures and results presented in the main text of the paper 'Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation'.  
+This repository contains the key scripts and data used to reproduce the figures and results presented in the main text of the paper '*Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation*'.  
 It includes model outputs and visualization scripts for adoption dynamics, carbon sequestration trajectories, and regional or income-level differences under multiple global ERW deployment scenarios.
 
 ---
